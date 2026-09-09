@@ -7,7 +7,7 @@ function Landing() {
       <nav className="navbar">
         <div className="nav-content">
           <div className="nav-brand">
-            <img src="public/image/awash-logo.png" alt="Awash Bank Logo" className="nav-logo" />
+            <img src="/image/awash-logo.png" alt="Awash Bank Logo" className="nav-logo" />
             <p> Awash International Bank </p>
           </div>
           <div className="nav-links">
