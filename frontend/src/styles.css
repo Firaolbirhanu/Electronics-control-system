@@ -342,10 +342,12 @@ button:hover {
 }
 
 .nav-logo {
-  height: 100px;
+  display: block;
   width: 200px;
+  height: 100px;
   object-fit: contain;
-  max-width: 200px;
+  background: white;
+  border: 2px solid red;
 }
 
 .nav-brand i {
