@@ -347,7 +347,6 @@ button:hover {
   height: 100px;
   object-fit: contain;
   background: white;
-  border: 2px solid red;
 }
 
 .nav-brand i {
